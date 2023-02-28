@@ -1,0 +1,6 @@
+node_modules/
+bot_sessions/
+bot.qr.png
+core.class.log
+db.json
+pnpm-lock.yaml
